@@ -24,7 +24,7 @@
         <maven.test.skip>true</maven.test.skip>
         <spring-cloud.version>Greenwich.RELEASE</spring-cloud.version>
         <mockito-core.version>2.23.4</mockito-core.version>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
     </properties>
 
     <dependencies>
